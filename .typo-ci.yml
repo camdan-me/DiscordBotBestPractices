@@ -1,0 +1,19 @@
+dictionaries:
+  - en
+  - en_GB
+
+# Any files/folders we should ignore?
+excluded_files:
+  - ".github/**/*"
+  - "package-lock.json"
+  - "package.json"
+
+# Any typos we should ignore?
+excluded_words:
+  - typoci
+  - bot
+  - bots
+  - bot's
+
+# Would you like filenames to also be spellchecked?
+spellcheck_filenames: true
