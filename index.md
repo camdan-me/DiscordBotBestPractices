@@ -36,8 +36,8 @@ If you are making a bot that is publically available, you should probably follow
 - ✔️ **ALWAYS** have an `info` command. This should provide basic info such as:
     - ✔️ The library used to run the bot, and what version.
     - ✔️ The usernames of the bot's creators.
-    - ✔️ A link to the bot's support server. (If appliccable)
-    - ✔️ A link to the bot's website. (If appliccable)
+    - ✔️ A link to the bot's support server. (If applicable)
+    - ✔️ A link to the bot's website. (If applicable)
     - ✔️ Who to contact for questions or concerns.
 - ✔️ **ALWAYS** ignore other bot's commands. Your bot **should not** reply to other bots. Read your library's docs to see how to do that.
 - ✔️ **ALWAYS** allow the bot to respond to a mention. The response can be either a help message or a simple message telling the user what the bot's prefix is.
