@@ -1,5 +1,5 @@
 # Discord Bot Best Practices
-If you are making a bot that is publically available, you should probably follow these best practices. The goal is to keep servers as clean as possible and their users as happy as possible!
+If you are making a publically available bot, you should probably follow these best practices. The goal is to keep servers as clean as possible and their users as happy as possible!
 
 **ALL BOTS SHOULD ALWAYS follow the Discord [Terms of Service](https://discord.com/terms), [Community Guidelines](https://discord.com/guidelines), and [Developer Policy](https://discord.com/developers/docs/policy).**
 
@@ -9,7 +9,7 @@ If you are making a bot that is publically available, you should probably follow
 - ❌ **NEVER** give targeted advertisements.
     - ❗ This includes DM advertising, such as randomly messaging a user with a link or ad.
 - ❌ **NEVER** "scrape" data.
-    - ❗ This includes logging more information then necessary to run the bot effectively.
+    - ❗ This includes logging more information than necessary to run the bot effectively.
     - ❗ This also includes collecting information on users for analytics purposes without their permission.
 - ❌ **NEVER** sell or share a user's data in any way, except for communicating with an API to serve the user.
 - ❌ **NEVER** retain data longer than necessary to run the bot effectively.
