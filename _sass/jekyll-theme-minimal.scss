@@ -270,3 +270,25 @@ footer {
     color:#BBBBBB;
   }
 }
+
+/* Button */
+.lightbutton {
+  color: #B6B6B6 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #000000;
+  padding: 20px;
+  border: 4px solid #B6B6B6 !important;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+.lightbutton:hover {
+  color: #000000 !important;
+  background: #32b12b;
+  border-color: #32b12b !important;
+  transition: all 0.4s ease 0s;
+}
+
+.darkbutton {
+  display:none;
+}
