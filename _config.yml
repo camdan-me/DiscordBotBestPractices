@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Discord Bot Best Practices
 description: Make awesome Discord bots by following these best practices.
+logo: ./logo.png
+show_downloads: false
