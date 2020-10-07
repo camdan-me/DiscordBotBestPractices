@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/CamTheHelpDesk/DiscordBotB
 
 You can visit the website at https://camdan.me/DiscordBotBestPractices/
 
-You can learn more about contributing to the project in `CONTRIBUTING.md`.
+You can learn more about contributing to the project in [`CONTRIBUTING.md`](https://github.com/CamTheHelpDesk/DiscordBotBestPractices/blob/main/CONTRIBUTING.md).
